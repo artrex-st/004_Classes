@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/05/01 18:12:38.000.684,=C:\Users\Arthur\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/11 08:12:02.000.256,=C:\Users\Arthur\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/18 08:19:26.000.994,=C:\Users\Arthur\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/18 08:20:44.000.561,C:\Users\Arthur\Documents\Delphi_Curso\004_Classes\Ufrm_testeClasses.pas=C:\Users\Arthur\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2019/05/18 08:20:44.000.561,C:\Users\Arthur\Documents\Delphi_Curso\004_Classes\Ufrm_testeClasses.dfm=C:\Users\Arthur\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2019/05/18 08:20:55.000.471,C:\Users\Arthur\Documents\Delphi_Curso\004_Classes\Classes.dproj=C:\Users\Arthur\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2019/05/18 08:22:04.000.200,=C:\Users\Arthur\Documents\Delphi_Curso\004_Classes\Unit1.pas</Transaction>
+    <Transaction>2019/05/18 08:22:29.000.288,C:\Users\Arthur\Documents\Delphi_Curso\004_Classes\uClasses.pas=C:\Users\Arthur\Documents\Delphi_Curso\004_Classes\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
